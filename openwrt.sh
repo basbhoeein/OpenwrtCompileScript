@@ -1021,7 +1021,7 @@ source_download_openwrt() {
 				git clone -b openwrt-19.07 https://github.com/openwrt/openwrt.git lede
 				;;
 				7)
-				git clone  https://github.com/openwrt/openwrt.git lede
+				git clone -b master https://github.com/basbhoeein/source-1.git lede
 				;;
 				0)
 				exit
