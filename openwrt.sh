@@ -672,7 +672,7 @@ description_if(){
 		echo "存在"
 	else 
 		cd $HOME/$OW/$SF/
-                git clone https://github.com/openwrtcompileshell/OpenwrtCompileScript.git
+                git clone https://github.com/basbhoeein/OpenwrtCompileScript.git
 		cd 
 		rm -rf `pwd`/$OCS
 		cd $HOME/$OW/$SF/$OCS
