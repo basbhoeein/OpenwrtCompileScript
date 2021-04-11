@@ -30,14 +30,14 @@ The script is made to work on these OS :
 
 **脚本视频教程加群** :**667491026**   （**拒绝大爷公子伸手党**)
 
-**脚本问题反馈** ：https://github.com/openwrtcompileshell/OpenwrtCompileScript/issues 或者加群反馈
+**脚本问题反馈** ：https://github.com/basbhoeein/OpenwrtCompileScript/issues 或者加群反馈
 
 ## Usage 使用方法
 
 1、使用git克隆下载脚本并赋予执行权限
 
 ```bash
-git clone https://github.com/openwrtcompileshell/OpenwrtCompileScript.git && chmod +x OpenwrtCompileScript/openwrt.sh
+git clone https://github.com/basbhoeein/OpenwrtCompileScript.git && chmod +x OpenwrtCompileScript/openwrt.sh
 
 ```
 
