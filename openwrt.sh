@@ -661,8 +661,7 @@ description_if(){
 			echo "-----------------------------------------------------------------------"
 			read a
 			Time
-			rm -rf `pwd`/$OCS
-			reboot	
+			rm -rf `pwd`/$OCS	
 		else
 			echo "系统变量已经添加"
 		fi
